@@ -1,0 +1,71 @@
+{
+    "personas": [
+      {
+        "img": "assets/img/ing_software.jpg",
+        "nombre": "Juan Pérez",
+        "profesion": "Ingeniero de Software",
+        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, turpis sit amet convallis efficitur. Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Integer lacinia sed quam in tincidunt. Proin facilisis, metus eget interdum cursus."
+      },
+      {
+        "img": "assets/img/diseno_grafico.jpg",
+        "nombre": "Ana Rodríguez",
+        "profesion": "Diseñadora Gráfica",
+        "review": "Aenean a justo ac nisl tristique cursus. Nullam eget enim nec quam ullamcorper vulputate. Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Fusce sit amet odio libero. Cras dapibus fringilla justo, vel cursus nunc facilisis ac. Suspendisse potenti."
+      },
+      {
+        "img": "assets/img/analista_datos.jpg",
+        "nombre": "Carlos González",
+        "profesion": "Analista de Datos",
+        "review": "Fusce euismod magna sit amet ante efficitur, at facilisis arcu feugiat. Nullam congue placerat ante. Vestibulum mattis odio ut eleifend venenatis. Vivamus vehicula dui a tincidunt dapibus. Sed mattis bibendum ex at tincidunt. Aliquam id ultrices ante. Cras tristique tincidunt eros nec interdum."
+      },
+      {
+        "img": "assets/img/desarrollo_web.jpg",
+        "nombre": "María López",
+        "profesion": "Desarrollador Web",
+        "review": "Vestibulum mattis odio ut eleifend venenatis. Vivamus vehicula dui a tincidunt dapibus. Fusce euismod magna sit amet ante efficitur, at facilisis arcu feugiat. Nullam congue placerat ante. Morbi id lacus nec nisl luctus gravida a ac ligula. Quisque vehicula, dui at consequat cursus, lectus libero malesuada ante."
+      },
+      {
+        "img": "assets/img/marketing.jpg",
+        "nombre": "Luis Fernández",
+        "profesion": "Marketing Digital",
+        "review": "Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Fusce ut nisi malesuada, feugiat urna id, ultricies nunc. Sed eget purus arcu. Sed eu aliquet sapien. Nulla facilisi. Praesent ut lectus eu turpis vestibulum tincidunt. Ut consectetur est nec arcu facilisis."
+      },
+      {
+        "img": "assets/img/ing_software2.jpg",
+        "nombre": "Marta García",
+        "profesion": "Ingeniera de Software",
+        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, turpis sit amet convallis efficitur. Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Integer lacinia sed quam in tincidunt. Proin facilisis, metus eget interdum cursus."
+      },
+      {
+        "img": "assets/img/diseno_grafico2.jpg",
+        "nombre": "José Rodríguez",
+        "profesion": "Diseñador Gráfico",
+        "review": "Aenean a justo ac nisl tristique cursus. Nullam eget enim nec quam ullamcorper vulputate. Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Fusce sit amet odio libero. Cras dapibus fringilla justo, vel cursus nunc facilisis ac. Suspendisse potenti."
+      },
+      {
+        "img": "assets/img/analista_datos2.jpg",
+        "nombre": "Laura González",
+        "profesion": "Analista de Datos",
+        "review": "Fusce euismod magna sit amet ante efficitur, at facilisis arcu feugiat. Nullam congue placerat ante. Vestibulum mattis odio ut eleifend venenatis. Vivamus vehicula dui a tincidunt dapibus. Sed mattis bibendum ex at tincidunt. Aliquam id ultrices ante. Cras tristique tincidunt eros nec interdum."
+      },
+      {
+        "img": "assets/img/desarrollo_web2.jpg",
+        "nombre": "Pedro López",
+        "profesion": "Desarrollador Web",
+        "review": "Vestibulum mattis odio ut eleifend venenatis. Vivamus vehicula dui a tincidunt dapibus. Fusce euismod magna sit amet ante efficitur, at facilisis arcu feugiat. Nullam congue placerat ante. Morbi id lacus nec nisl luctus gravida a ac ligula. Quisque vehicula, dui at consequat cursus, lectus libero malesuada ante."
+      },
+      {
+        "img": "assets/img/marketing2.jpg",
+        "nombre": "Isabel Fernández",
+        "profesion": "Marketing Digital",
+        "review": "Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Fusce ut nisi malesuada, feugiat urna id, ultricies nunc. Sed eget purus arcu. Sed eu aliquet sapien. Nulla facilisi. Praesent ut lectus eu turpis vestibulum tincidunt. Ut consectetur est nec arcu facilisis."
+      },
+      {
+        "img": "assets/img/ing_software3.jpg",
+        "nombre": "David Pérez",
+        "profesion": "Ingeniero de Software",
+        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, turpis sit amet convallis efficitur. Curabitur eget mauris vehicula, laoreet elit eu, dictum arcu. Sed vel nunc eget ipsum laoreet vehicula. Integer lacinia sed quam in tincidunt. Proin facilisis, metus eget interdum cursus, ex loremper."
+      }
+    ]
+  }
+  
