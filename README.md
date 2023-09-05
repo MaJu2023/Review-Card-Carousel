@@ -4,8 +4,8 @@ This web application allows you to view reviews of different people one at a tim
 
 ## Screenshots
 
-[screenshot](images/screenshot1.png)
-[screenshot](images/screenshot2.png)
+![Screenshot1](images/screenshot1.jpg)
+![Screenshot1](images/screenshot2.jpg)
 
 ## Technologies Used
 
