@@ -14,5 +14,7 @@ This web application allows you to view reviews of different people one at a tim
 - JavaScript
 - JSON (for review data)
 
+##Demo
+[Demo]((https://maju2023.github.io/Review-Card-Carousel/)https://maju2023.github.io/Review-Card-Carousel/)
 
 
