@@ -16,5 +16,8 @@ This web application allows you to view reviews of different people one at a tim
 
 ##Demo
 [Demo]((https://maju2023.github.io/Review-Card-Carousel/)https://maju2023.github.io/Review-Card-Carousel/)
+## Demo
+
+[View Demo](https://maju2023.github.io/Review-Card-Carousel/)
 
 
